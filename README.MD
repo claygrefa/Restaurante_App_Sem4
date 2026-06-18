@@ -1,6 +1,6 @@
 # Sistema de Gestión de Restaurante - Programación Modular
 
-Este proyecto consiste en una aplicación de consola en Python diseñada bajo el enfoque de la **Programación Orientada a Objetos (POO)** y la **arquitectura modular**. El sistema permite gestionar el menú de un restaurante, registrar clientes, tomar pedidos y calcular la factura correspondiente.
+Es una aplicación de consola en Python diseñada bajo el enfoque de la **Programación Orientada a Objetos (POO)** y la **arquitectura modular**. El sistema permite gestionar el menú de un restaurante, registrar clientes, tomar pedidos y calcular la factura correspondiente.
 
 ## 👤 Información del Estudiante
 * **Nombre** Clay Medardo Grefa Tunay
